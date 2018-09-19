@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div id="formArquivo">
+    <h2>Mongatem de Ranking</h2>
+    <p>Por favor informe o arquivo de log do jogo de tiro para montagem do ranking</p>
+    <p>Caso não tenha um arquivo de log <a href="~/Arquivos/ExemplodeLog.txt" target="_blank">clique aqui</a></p>
+    <br />
+    <form id="frmEnvio">
+        <div class="form-group">
+            <label class="control-label">Arquivo de Log:</label>
+            <input type="file" class="form-control" id="arquivoSelecionado" />
+        </div>
+        <div class="form-group">
+            <input type="button"  value="Montar" class="btn btn-lg btn-primary pull-right" onclick="controller.Enviar();"/>
+        </div>
+    </form>
+</div>
+
+<div id="ranking" style="display:none;">
+    <div class="row">
+        <h1>Ranking</h1>
+    </div>
+    <div id="ranking-items">
+    </div>
+    <div>
+        <input type="button" value="Voltar" class="btn btn-lg btn-primary pull-right" onclick="controller.Voltar();" />
+    </div>
+</div>
+
+
+

@@ -1,0 +1,14 @@
+﻿body {
+
+}
+
+.amil_backgroundcolor-blue {
+    background-color:#2574a9 !important;
+    border:none !important;
+    color:white;
+    border-radius:0px;
+}
+
+.navbar-brand  {
+    color:#fff !important;
+}

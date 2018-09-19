@@ -1,0 +1,7 @@
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\bin\Debug\TesteAmil.AnalisadorLog.dll
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\bin\Debug\TesteAmil.AnalisadorLog.pdb
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\bin\Debug\TesteAmil.Domain.dll
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\bin\Debug\TesteAmil.Domain.pdb
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\obj\Debug\TesteAmil.AnalisadorLog.csprojResolveAssemblyReference.cache
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\obj\Debug\TesteAmil.AnalisadorLog.dll
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.AnalisadorLog\obj\Debug\TesteAmil.AnalisadorLog.pdb

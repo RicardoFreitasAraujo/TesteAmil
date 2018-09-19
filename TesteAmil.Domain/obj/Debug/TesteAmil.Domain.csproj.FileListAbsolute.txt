@@ -1,0 +1,4 @@
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.Domain\bin\Debug\TesteAmil.Domain.dll
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.Domain\bin\Debug\TesteAmil.Domain.pdb
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.Domain\obj\Debug\TesteAmil.Domain.dll
+C:\Fontes\TesteAmil\TesteAmil\TesteAmil.Domain\obj\Debug\TesteAmil.Domain.pdb
